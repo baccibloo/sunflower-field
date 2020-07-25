@@ -47,6 +47,10 @@ margin-bottom: 15px;
  margin-right: 200px;
 }
 
+iframe {
+ margin: 0 auto;
+}
+
 #vacio {
 height: 350px;
 }
