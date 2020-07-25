@@ -19,7 +19,7 @@ html {
  }
 
 #MainPage {
- margin: 1 15%;
+ margin: 0 15%;
  border-style: solid; 
  border-color: white;
  background-color: white;
@@ -52,6 +52,8 @@ height: 350px;
 }
 
 #BttmBr { 
+ position:fixed;
+ bottom:0;
  width: 100%; 
  margin-bottom: 10px;
 }
