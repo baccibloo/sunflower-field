@@ -48,6 +48,7 @@ margin-bottom: 15px;
 }
 
 iframe {
+ display: block;
  margin: 0 auto;
 }
 
