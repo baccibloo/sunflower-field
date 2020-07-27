@@ -55,7 +55,7 @@ padding-top: -5px
 nav { 
  height: 245px;
  margin-top: 10px;
- padding-bottom: 10px;
+
 }
 
 #BttmBr ul { 
@@ -70,6 +70,7 @@ nav {
     padding: 20px 0px;
     text-align: center;
     position: fixed; bottom: 0; 
+  margin-bottom: 0;
 }
 #BttmBr li {
  padding: 0px 18px; 
