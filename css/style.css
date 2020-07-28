@@ -101,3 +101,8 @@ nav ul {
 margin: 0 auto;
  text-align:center;
 }
+
+li img
+{
+ width: 230px;
+}
