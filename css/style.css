@@ -57,7 +57,7 @@ padding-top: 0px
 
 nav { 
  
- margin-top: 10px;
+ margin: 10px auto;
  
 }
 
@@ -98,6 +98,6 @@ nav li {
 
 nav ul {
  padding:0;
- margin-left:8%;
- margin-top:3%;
+margin: 0 auto;
+ text-align:center;
 }
