@@ -86,16 +86,18 @@ nav {
 } 
 
 nav { 
- height: 230px;
- margin-top: 0px;
+  margin-top: 0px;
  padding-bottom: 0px;
 }
 
 nav li {
- padding: 0px 14px; 
- float:center;
+ padding: 0px 10px; 
  display: inline-block;
+ width: 310px;
 }
 
 nav ul {
+ padding:0;
+ margin-left:5%;
+ margin-top:5%;
 }
