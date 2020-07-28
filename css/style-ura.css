@@ -40,19 +40,18 @@ color: white;
 }
 
 .boku8 {
- center fixed; 
  width: 200px;
  height: 180px;
- margin-right: 200px;
+ margin-right: 20px;
 }
 
 iframe {
- display: block;
+ display: inline-block;
  margin: 0 auto;
 }
 
 #vacio {
-height: 350px;
+margin:30px auto;
 }
 
 #BttmBr { 
