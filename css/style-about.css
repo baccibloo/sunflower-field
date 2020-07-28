@@ -48,11 +48,9 @@ padding-top: -5px
 
 .boku9{
 
-img src="url(../sunflowerfieldabout/img/boku9.png); 
     display: block;
-    margin-right: auto;
-    margin-left: auto;
-    width: 50%;
+    width: 25%;
+    margin: 0 auto;
 }
 
 #vacio {
