@@ -15,9 +15,8 @@ html {
  }
 
 #MainPage {
- width: 100%
- text-align: center;
- }
+    margin: 0 auto;
+    width: 800px;
 
 #MainPage {
  margin: 0 15%;
