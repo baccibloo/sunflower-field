@@ -87,6 +87,12 @@ nav li {
  display: inline-block;
  
 }
+ 
+#BttmBr a {  
+ color: white;
+ font-family: Calibri;
+ font-size: 30px;
+}
 
 nav ul {
  padding:0;
