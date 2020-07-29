@@ -109,6 +109,7 @@ li img
  color: white;
  font-family: Calibri;
  font-size: 20px;
+ padding-top: 05px;
  list-style-type: none; 
  display: block;
  width: 100%;
@@ -118,11 +119,12 @@ li img
 
 #ul2 {
  color: white;
-    font-family: Calibri;
-    font-size: 16px;
-    list-style-type: none; 
-    display: block;
-    width: 100%;
-    padding: 05px 0px;
-    text-align: center;
+ font-family: Calibri;
+ font-size: 16px;
+ padding-top: 05px;
+ list-style-type: none; 
+ display: block;
+ width: 100%;
+ padding: 05px 0px;
+ text-align: center;
 }
