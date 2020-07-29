@@ -50,13 +50,11 @@ margin-bottom: 5px;
  position: fixed;
  bottom: 0;
  width: 100%; 
-
 }
 
 nav { 
  
  margin: 10px auto;
- 
 }
 
 #BttmBr ul { 
@@ -85,8 +83,7 @@ nav {
 nav li {
  padding: 0px 15px; 
  display: inline-block;
- 
-}
+ }
  
 #BttmBr a {  
  color: white;
