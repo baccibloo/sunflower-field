@@ -68,7 +68,7 @@ nav {
     list-style-type: none;
     display: block;
     width: 100%;
-    padding: 20px 0px;
+    padding: 05px 0px;
     text-align: center;
     margin-bottom: 0;
 }
@@ -103,4 +103,28 @@ margin: 0 auto;
 li img
 {
  width: 230px;
+}
+
+#u1 { 
+ color: white;
+ font-family: Calibri;
+ font-size: 24px;
+ padding-top: 05px;
+ list-style-type: none; 
+ display: block;
+ width: 100%;
+ padding: 05px 0px;
+ text-align: center;
+}
+
+#ul2 {
+ color: white;
+    font-family: Calibri;
+    font-size: 20px;
+    padding-top: 05px;
+    list-style-type: none; 
+    display: block;
+    width: 100%;
+    padding: 05px 0px;
+    text-align: center;
 }
