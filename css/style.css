@@ -128,3 +128,11 @@ li img
  padding: 05px 0px;
  text-align: center;
 }
+
+#ul1 a {
+    font-size:20px;
+}
+
+#ul1 a {
+   font-size:16px;
+}
