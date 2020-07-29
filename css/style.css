@@ -15,11 +15,8 @@ html {
  }
 
 #MainPage {
-    margin: 0 auto;
-    width: 800px;
-
-#MainPage {
- margin: 0 15%;
+ margin: 0 auto;
+ width: 800px;
  border-style: solid; 
  border-color: white;
  background-color: white;
