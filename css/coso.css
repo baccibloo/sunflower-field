@@ -28,11 +28,11 @@ body {
 }
 
 #demo {
- margin-top: 60px;
- width:25%;
- margin-left: auto;
+    margin-top: 30px;
+    width: 25%;
+    margin-left: auto;
     margin-right: auto;
- }
+}
 
 .carousel-indicators {
  bottom: -45px;   
